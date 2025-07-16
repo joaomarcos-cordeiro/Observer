@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Observe-designerpattern/Observe-designerpattern.iml" filepath="$PROJECT_DIR$/Observe-designerpattern/Observe-designerpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Observer.iml" filepath="$PROJECT_DIR$/.idea/Observer.iml" />
+    </modules>
+  </component>
+</project>
